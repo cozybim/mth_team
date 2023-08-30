@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{13587838-9CFD-424E-A815-7AD5F29CA632}</ProjectGuid>
+    <ProjectGuid>{0636BAF6-D0E0-4EFE-95F6-F0C1ADAF5BBF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Sample_09_abstract</RootNamespace>
-    <AssemblyName>Sample_09_abstract</AssemblyName>
+    <RootNamespace>sameClassLibrarySample</RootNamespace>
+    <AssemblyName>sameClassLibrarySample</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,18 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circle.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Point2d.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rectangle.cs" />
-    <Compile Include="Shape.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -84,7 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyLibs\MyLibs.csproj">
+    <ProjectReference Include="..\..\Sample_09_abstract\MyLibs\MyLibs.csproj">
       <Project>{23d8b9b1-f1fc-47e8-9cec-1ab4b9a3960b}</Project>
       <Name>MyLibs</Name>
     </ProjectReference>

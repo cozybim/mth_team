@@ -1,0 +1,10 @@
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\bin\Debug\Sample_09_abstract.exe.config
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\bin\Debug\Sample_09_abstract.exe
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\bin\Debug\Sample_09_abstract.pdb
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.csproj.AssemblyReference.cache
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.Form1.resources
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.Properties.Resources.resources
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.csproj.GenerateResource.cache
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.csproj.CoreCompileInputs.cache
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.exe
+C:\working\mth_team\tekla_training\Sample_09_abstract\Sample_09_abstract\obj\Debug\Sample_09_abstract.pdb
