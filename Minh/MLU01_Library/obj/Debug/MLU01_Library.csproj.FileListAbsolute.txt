@@ -1,0 +1,6 @@
+D:\03. study & future\08. API\Practise_1\MLU01_Library\bin\Debug\MLU01_Library.dll
+D:\03. study & future\08. API\Practise_1\MLU01_Library\bin\Debug\MLU01_Library.pdb
+D:\03. study & future\08. API\Practise_1\MLU01_Library\obj\Debug\MLU01_Library.csproj.AssemblyReference.cache
+D:\03. study & future\08. API\Practise_1\MLU01_Library\obj\Debug\MLU01_Library.csproj.CoreCompileInputs.cache
+D:\03. study & future\08. API\Practise_1\MLU01_Library\obj\Debug\MLU01_Library.dll
+D:\03. study & future\08. API\Practise_1\MLU01_Library\obj\Debug\MLU01_Library.pdb
