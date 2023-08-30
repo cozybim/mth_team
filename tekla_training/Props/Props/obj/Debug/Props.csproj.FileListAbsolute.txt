@@ -1,0 +1,13 @@
+C:\working\MTH\Props\Props\bin\Debug\Props.exe.config
+C:\working\MTH\Props\Props\bin\Debug\Props.exe
+C:\working\MTH\Props\Props\bin\Debug\Props.pdb
+C:\working\MTH\Props\Props\bin\Debug\MyLibs.dll
+C:\working\MTH\Props\Props\bin\Debug\MyLibs.pdb
+C:\working\MTH\Props\Props\obj\Debug\Props.csproj.AssemblyReference.cache
+C:\working\MTH\Props\Props\obj\Debug\Props.Form1.resources
+C:\working\MTH\Props\Props\obj\Debug\Props.Properties.Resources.resources
+C:\working\MTH\Props\Props\obj\Debug\Props.csproj.GenerateResource.cache
+C:\working\MTH\Props\Props\obj\Debug\Props.csproj.CoreCompileInputs.cache
+C:\working\MTH\Props\Props\obj\Debug\Props.csproj.CopyComplete
+C:\working\MTH\Props\Props\obj\Debug\Props.exe
+C:\working\MTH\Props\Props\obj\Debug\Props.pdb

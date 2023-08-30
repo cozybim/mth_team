@@ -1,0 +1,6 @@
+C:\working\MTH\Sample_05_overload\MyLib\bin\Debug\MyLib.dll
+C:\working\MTH\Sample_05_overload\MyLib\bin\Debug\MyLib.pdb
+C:\working\MTH\Sample_05_overload\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\working\MTH\Sample_05_overload\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\working\MTH\Sample_05_overload\MyLib\obj\Debug\MyLib.dll
+C:\working\MTH\Sample_05_overload\MyLib\obj\Debug\MyLib.pdb

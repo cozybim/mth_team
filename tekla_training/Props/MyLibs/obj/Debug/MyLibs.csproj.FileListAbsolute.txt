@@ -1,0 +1,6 @@
+C:\working\MTH\Props\MyLibs\bin\Debug\MyLibs.dll
+C:\working\MTH\Props\MyLibs\bin\Debug\MyLibs.pdb
+C:\working\MTH\Props\MyLibs\obj\Debug\MyLibs.csproj.AssemblyReference.cache
+C:\working\MTH\Props\MyLibs\obj\Debug\MyLibs.csproj.CoreCompileInputs.cache
+C:\working\MTH\Props\MyLibs\obj\Debug\MyLibs.dll
+C:\working\MTH\Props\MyLibs\obj\Debug\MyLibs.pdb

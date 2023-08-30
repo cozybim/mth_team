@@ -1,0 +1,10 @@
+C:\working\MTH\MyProperties\MyProperties\bin\Debug\MyProperties.exe.config
+C:\working\MTH\MyProperties\MyProperties\bin\Debug\MyProperties.exe
+C:\working\MTH\MyProperties\MyProperties\bin\Debug\MyProperties.pdb
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.csproj.AssemblyReference.cache
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.Form1.resources
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.Properties.Resources.resources
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.csproj.GenerateResource.cache
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.csproj.CoreCompileInputs.cache
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.exe
+C:\working\MTH\MyProperties\MyProperties\obj\Debug\MyProperties.pdb

@@ -1,0 +1,10 @@
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\bin\Debug\Sample_07_BoKhoiTao.exe.config
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\bin\Debug\Sample_07_BoKhoiTao.exe
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\bin\Debug\Sample_07_BoKhoiTao.pdb
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.csproj.AssemblyReference.cache
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.Form1.resources
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.Properties.Resources.resources
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.csproj.GenerateResource.cache
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.csproj.CoreCompileInputs.cache
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.exe
+C:\working\MTH\Sample_07_BoKhoiTao\Sample_07_BoKhoiTao\obj\Debug\Sample_07_BoKhoiTao.pdb

@@ -1,0 +1,10 @@
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\bin\Debug\sample_08_abstractClass.exe.config
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\bin\Debug\sample_08_abstractClass.exe
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\bin\Debug\sample_08_abstractClass.pdb
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.csproj.AssemblyReference.cache
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.Form1.resources
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.Properties.Resources.resources
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.csproj.GenerateResource.cache
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.csproj.CoreCompileInputs.cache
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.exe
+C:\working\MTH\sample_08_abstractClass\sample_08_abstractClass\obj\Debug\sample_08_abstractClass.pdb
