@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sample_09_abstract
 {
-    public class Circle
+    internal class Circle
     {
     }
 }
