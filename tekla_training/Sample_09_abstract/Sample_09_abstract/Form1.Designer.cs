@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.label1 = new System.Windows.Forms.Label();
             this.TxtSelectedFile = new System.Windows.Forms.TextBox();
             this.BtnChonFile = new System.Windows.Forms.Button();
@@ -152,6 +153,12 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form1";
+>>>>>>> 2fae0023c926c17a6fe79f7d2197e0a45ce989b5
         }
 
         #endregion
