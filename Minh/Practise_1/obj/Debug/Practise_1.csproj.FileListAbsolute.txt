@@ -1,0 +1,13 @@
+D:\03. study & future\08. API\Practise_1\Practise_1\bin\Debug\Practise_1.exe.config
+D:\03. study & future\08. API\Practise_1\Practise_1\bin\Debug\Practise_1.exe
+D:\03. study & future\08. API\Practise_1\Practise_1\bin\Debug\Practise_1.pdb
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.csproj.AssemblyReference.cache
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.Form1.resources
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.Properties.Resources.resources
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.csproj.GenerateResource.cache
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.csproj.CoreCompileInputs.cache
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.exe
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.pdb
+D:\03. study & future\08. API\Practise_1\Practise_1\bin\Debug\MLU01_Library.dll
+D:\03. study & future\08. API\Practise_1\Practise_1\bin\Debug\MLU01_Library.pdb
+D:\03. study & future\08. API\Practise_1\Practise_1\obj\Debug\Practise_1.csproj.CopyComplete
