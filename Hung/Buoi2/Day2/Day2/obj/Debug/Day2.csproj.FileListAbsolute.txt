@@ -1,0 +1,14 @@
+E:\OAPI\Homework\Buoi2\Day2\Day2\bin\Debug\Day2.exe.config
+E:\OAPI\Homework\Buoi2\Day2\Day2\bin\Debug\Day2.exe
+E:\OAPI\Homework\Buoi2\Day2\Day2\bin\Debug\Day2.pdb
+E:\OAPI\Homework\Buoi2\Day2\Day2\bin\Debug\MyLibs.dll
+E:\OAPI\Homework\Buoi2\Day2\Day2\bin\Debug\MyLibs.pdb
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.csproj.SuggestedBindingRedirects.cache
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.Form1.resources
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.Properties.Resources.resources
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.csproj.GenerateResource.cache
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.csproj.CopyComplete
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.exe
+E:\OAPI\Homework\Buoi2\Day2\Day2\obj\Debug\Day2.pdb

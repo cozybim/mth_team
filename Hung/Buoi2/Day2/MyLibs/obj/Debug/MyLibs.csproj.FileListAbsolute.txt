@@ -1,0 +1,6 @@
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\bin\Debug\MyLibs.dll
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\bin\Debug\MyLibs.pdb
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\obj\Debug\MyLibs.csproj.AssemblyReference.cache
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\obj\Debug\MyLibs.csproj.CoreCompileInputs.cache
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\obj\Debug\MyLibs.dll
+E:\OAPI\Homework\Buoi2\Day2\MyLibs\obj\Debug\MyLibs.pdb
